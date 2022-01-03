@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sumant7
+- 👋 Hi, I’m Sumant Chaudhary
 - 👀 I’m interested in full-stack web development.
 - 🌱 I’m currently learning javascript.
 - 💞️ I’m looking to collaborate on ...
