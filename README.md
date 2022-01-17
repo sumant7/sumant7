@@ -1,6 +1,6 @@
 - 👋 Hi, I’m **Sumant Chaudhary**  
 - 👀 I’m interested in full-stack web development.
-- 🌱 I’m currently learning javascript.
+- 🌱 I’m currently learning Node Js and Express Js.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me sumantchaudhary07@gmail.com
 
