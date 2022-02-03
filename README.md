@@ -1,6 +1,6 @@
 - #  👋 Hi, I’m **Sumant Chaudhary** 
 - 👀 I’m interested in full-stack web development.
-- 🌱 I’m currently learning **Express Js**, **MongoDB** and **Python**.
+- 🌱 I’m currently learning **Express Js**, **MongoDB** and **Python** and **DSA** in **C++**.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me sumantchaudhary07@gmail.com
 
