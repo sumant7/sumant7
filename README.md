@@ -1,8 +1,8 @@
-- #  👋 Hi, I’m **Prakhar Jain** 
+- #  👋 Hi, I’m **Sumant Chaudhary** 
 - 👀 I’m interested in full-stack web development.
 - 🌱 I’m currently learning **Python** and **DSA** in **C++**.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me prakharjain2311@gmail.com
+- 📫 How to reach me sumantchaudhary07@gmail.com
 
 ### My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sumant7&theme=dark&background=000000)](https://git.io/streak-stats)
