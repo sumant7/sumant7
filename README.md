@@ -1,6 +1,6 @@
 - #  👋 Hi, I’m **Sumant Chaudhary** 
-- 👀 I’m interested in full-stack web development.
-- 🌱 I’m currently learning **Python** and **DSA** in **C++**.
+- 👀 I’m interested in full-stack web development and Machine Learning.
+- 🌱 I’m currently learning OnDevice ML and Advanced C++.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me sumantchaudhary07@gmail.com
 
